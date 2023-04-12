@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<div id="header" align="center">&nbsp;
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=BANDITKH2020&style=flat-square&color=blue" alt="account counter"/>
+  <img src="https://komarev.com/ghpvc/?username=BANDITKH2020&style=flat-square&color=blue" alt="account counter"/>&nbsp;
 
 </div>
 
