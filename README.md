@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am studying in computer engineering faculty.
+"I graduated from the Faculty of Engineering, majoring in Computer Engineering. Currently, I work in the position of frontend programmer."
 
 ---
 
