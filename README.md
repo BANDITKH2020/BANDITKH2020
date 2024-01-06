@@ -6,7 +6,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=cs,javascript,html,css,php,figma&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,javascript,html,css,php,figma,angular&perline=9)](https://skillicons.dev)
 
 ---
 
