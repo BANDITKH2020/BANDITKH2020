@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-"I graduated from the Faculty of Engineering, majoring in Computer Engineering. Currently, I work in the position of frontend programmer."
+"I graduated from the Faculty of Engineering, majoring in Computer Engineering. Currently, I work in the position of Software Engineer at Bangkok Expressway and Metro PCL (BEM)."
 
 ---
 
